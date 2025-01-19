@@ -4,6 +4,8 @@
 
 # WinViate
 
+## NOTE
+this code is awful and I have no plans of fixing it
 ## What Is WinViate?
 WinViate (Windows Alleviation) is a Windows graphical user interface tool that includes tweaks 
 that improve the performance of your PC. It is coded 100% in python using winreg to edit, 
